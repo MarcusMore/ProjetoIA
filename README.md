@@ -1,5 +1,7 @@
-#Genetic Algorithm TSP
+Algoritmo genético para resolver o problema do caixeiro viajante.
 
-This is an experiment of applying Genetic Algorithm to Travelling Salesman Problem, as well as visualizing the algorithm.
+#Desenvolvido em JS
 
-See the demo [here](http://parano.github.io/GeneticAlgorithm-TSP/)
+#Altere as cidades pelo arquivo data.js
+
+#Abra o index.html para visualizar o protótipo
